@@ -14,7 +14,6 @@ The 100% academic JSON database used by the world’s most responsible bio-enthu
 - This repository contains **scientific data only**
 - No instructions for cultivation, extraction, or consumption are provided (because that would be *rude*)
 - All values are averages. Nature is chaotic, and so are you
-- We assume you live in Jamaica
 - If you misinterpret this as dosing advice, that’s between you, your conscience, and whatever higher power you believe in (probably the mushrooms)
 
 ### Contributing
