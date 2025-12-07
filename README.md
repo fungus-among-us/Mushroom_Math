@@ -1,4 +1,4 @@
-# Mushroom Math™ – Pseudo-Official Potency Reference Library
+# Mushroom Math™ – A Reference Library
 
 *The world’s most unnecessarily precise collection of “totally hypothetical” fungal alkaloid averages.*
 
