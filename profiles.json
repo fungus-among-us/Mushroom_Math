@@ -1,0 +1,342 @@
+{
+  "source": "Compiled from peer-reviewed studies and Psilocybin Cup data, 2024",
+  "description": "Average psilocybin and psilocin concentrations for popular Psilocybe cubensis strains, in mg/g dry weight (converted from % dry weight). Values represent averages excluding outliers. Where psilocin is not specified but total is available, it is inferred as total - psilocybin. If only total or one compound is given, the other is set to 0.0.",
+  "profiles": [
+    {
+      "label": "Albino A+",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 7.7 },
+        { "name": "Psilocin", "mg_per_g": 0.6 }
+      ]
+    },
+    {
+      "label": "Albino Burma",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 7.4 },
+        { "name": "Psilocin", "mg_per_g": 0.9 }
+      ]
+    },
+    {
+      "label": "Albino Chodewave",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 10.5 },
+        { "name": "Psilocin", "mg_per_g": 0.8 }
+      ]
+    },
+    {
+      "label": "Albino Melmac",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.6 },
+        { "name": "Psilocin", "mg_per_g": 0.5 }
+      ]
+    },
+    {
+      "label": "Albino Penis Envy (APE)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 9.3 },
+        { "name": "Psilocin", "mg_per_g": 1.4 }
+      ]
+    },
+    {
+      "label": "Albino Treasure Coast",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 1.3 },
+        { "name": "Psilocin", "mg_per_g": 0.5 }
+      ]
+    },
+    {
+      "label": "Alcabenzi",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.7 },
+        { "name": "Psilocin", "mg_per_g": 0.2 }
+      ]
+    },
+    {
+      "label": "Amazon (Amazonian)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 5.1 },
+        { "name": "Psilocin", "mg_per_g": 0.1 }
+      ]
+    },
+    {
+      "label": "Avery’s Albino",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 5.8 },
+        { "name": "Psilocin", "mg_per_g": 0.4 }
+      ]
+    },
+    {
+      "label": "B+",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 11.1 },
+        { "name": "Psilocin", "mg_per_g": 0.2 }
+      ]
+    },
+    {
+      "label": "Blue Meanie",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 11.8 },
+        { "name": "Psilocin", "mg_per_g": 0.4 }
+      ]
+    },
+    {
+      "label": "Burma",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 4.6 },
+        { "name": "Psilocin", "mg_per_g": 0.4 }
+      ]
+    },
+    {
+      "label": "Cambodian",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 4.5 },
+        { "name": "Psilocin", "mg_per_g": 0.6 }
+      ]
+    },
+    {
+      "label": "Casper",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 15.1 },
+        { "name": "Psilocin", "mg_per_g": 0.8 }
+      ]
+    },
+    {
+      "label": "Chodewave",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 3.8 },
+        { "name": "Psilocin", "mg_per_g": 0.3 }
+      ]
+    },
+    {
+      "label": "Colorado",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 5.6 },
+        { "name": "Psilocin", "mg_per_g": 0.2 }
+      ]
+    },
+    {
+      "label": "Creeper",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 13.0 },
+        { "name": "Psilocin", "mg_per_g": 0.2 }
+      ]
+    },
+    {
+      "label": "Ecuador (Ecuadorian)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 7.6 },
+        { "name": "Psilocin", "mg_per_g": 0.0 }
+      ]
+    },
+    {
+      "label": "Enigma",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 7.6 },
+        { "name": "Psilocin", "mg_per_g": 0.7 }
+      ]
+    },
+    {
+      "label": "Escondido",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 1.1 },
+        { "name": "Psilocin", "mg_per_g": 0.9 }
+      ]
+    },
+    {
+      "label": "F+ (Florida White)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 3.6 },
+        { "name": "Psilocin", "mg_per_g": 0.0 }
+      ]
+    },
+    {
+      "label": "Golden Teacher",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.6 },
+        { "name": "Psilocin", "mg_per_g": 0.5 }
+      ]
+    },
+    {
+      "label": "Hillbilly",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.9 },
+        { "name": "Psilocin", "mg_per_g": 0.6 }
+      ]
+    },
+    {
+      "label": "Huautla (Oaxaca)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 4.7 },
+        { "name": "Psilocin", "mg_per_g": 0.1 }
+      ]
+    },
+    {
+      "label": "Jack Frost",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 7.2 },
+        { "name": "Psilocin", "mg_per_g": 0.3 }
+      ]
+    },
+    {
+      "label": "Jedi Mind Fuck",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 5.0 },
+        { "name": "Psilocin", "mg_per_g": 0.4 }
+      ]
+    },
+    {
+      "label": "Koh Samui",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.3 },
+        { "name": "Psilocin", "mg_per_g": 0.4 }
+      ]
+    },
+    {
+      "label": "Lipa Yai (Thai)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.6 },
+        { "name": "Psilocin", "mg_per_g": 0.5 }
+      ]
+    },
+    {
+      "label": "Lizard King",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 2.7 },
+        { "name": "Psilocin", "mg_per_g": 0.7 }
+      ]
+    },
+    {
+      "label": "Malabar India",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.1 },
+        { "name": "Psilocin", "mg_per_g": 0.6 }
+      ]
+    },
+    {
+      "label": "Malaysian",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.1 },
+        { "name": "Psilocin", "mg_per_g": 0.3 }
+      ]
+    },
+    {
+      "label": "Mazatapec",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.1 },
+        { "name": "Psilocin", "mg_per_g": 0.8 }
+      ]
+    },
+    {
+      "label": "Melmac",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 7.8 },
+        { "name": "Psilocin", "mg_per_g": 1.4 }
+      ]
+    },
+    {
+      "label": "Old Dirty Penis Envy",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 9.9 },
+        { "name": "Psilocin", "mg_per_g": 3.4 }
+      ]
+    },
+    {
+      "label": "Penis Envy Uncut",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 13.6 },
+        { "name": "Psilocin", "mg_per_g": 6.8 }
+      ]
+    },
+    {
+      "label": "PES Amazonian",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 11.2 },
+        { "name": "Psilocin", "mg_per_g": 2.0 }
+      ]
+    },
+    {
+      "label": "PES Hawaiian",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 3.0 },
+        { "name": "Psilocin", "mg_per_g": 1.3 }
+      ]
+    },
+    {
+      "label": "South African Transkei",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 9.2 },
+        { "name": "Psilocin", "mg_per_g": 0.0 }
+      ]
+    },
+    {
+      "label": "Tasmanian",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 4.4 },
+        { "name": "Psilocin", "mg_per_g": 0.0 }
+      ]
+    },
+    {
+      "label": "Texas Yellow",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 10.8 },
+        { "name": "Psilocin", "mg_per_g": 0.2 }
+      ]
+    },
+    {
+      "label": "Thai Cubensis",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.1 },
+        { "name": "Psilocin", "mg_per_g": 0.7 }
+      ]
+    },
+    {
+      "label": "Thai (General)",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.4 },
+        { "name": "Psilocin", "mg_per_g": 0.8 }
+      ]
+    },
+    {
+      "label": "Tidal Wave",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.7 },
+        { "name": "Psilocin", "mg_per_g": 2.7 }
+      ]
+    },
+    {
+      "label": "Treasure Coast",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 5.9 },
+        { "name": "Psilocin", "mg_per_g": 0.8 }
+      ]
+    },
+    {
+      "label": "Trinity",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.3 },
+        { "name": "Psilocin", "mg_per_g": 1.1 }
+      ]
+    },
+    {
+      "label": "True Albino Teacher",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.1 },
+        { "name": "Psilocin", "mg_per_g": 0.6 }
+      ]
+    },
+    {
+      "label": "Yeti",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 8.8 },
+        { "name": "Psilocin", "mg_per_g": 2.6 }
+      ]
+    },
+    {
+      "label": "Z-Strain",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 6.6 },
+        { "name": "Psilocin", "mg_per_g": 1.7 }
+      ]
+    }
+  ]
+}
