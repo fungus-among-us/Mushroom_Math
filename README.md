@@ -2,7 +2,7 @@
 
 *The world’s most unnecessarily precise collection of “totally hypothetical” fungal alkaloid averages.*
 
-The 100% academic JSON database used by the world’s most responsible bio-enthusiasts, harm-reduction nerds, and people who just really like bar charts.
+A JSON database for use by the world’s most responsible bio-enthusiasts, harm-reduction nerds, and people who just really like bar charts.
 
 ### What’s inside?
 - 50+ lovingly averaged alkaloid profiles
@@ -11,10 +11,10 @@ The 100% academic JSON database used by the world’s most responsible bio-enthu
 - Easy to update yourself whenever someone publishes something new or wins a cup
 
 ##### Legal & Ethical Fine Print
-- This repository contains **scientific data only**
+- This repository contains **scientifish data only**
 - No instructions for cultivation, extraction, or consumption are provided (because that would be *rude*)
 - All values are averages. Nature is chaotic, and so are you
-- If you misinterpret this as dosing advice, that’s between you, your conscience, and whatever higher power you believe in (probably the mushrooms)
+- If you misinterpret this as dosing advice, that’s between you, your conscience, and whatever higher power you believe in (probably mushrooms)
 
 ### Contributing
 Found a new lab result? Discovered a strain that hits like a freight train made of geometry?  
