@@ -1,6 +1,6 @@
 {
-  "source": "Compiled from peer-reviewed studies and Psilocybin Cup data, 2024",
-  "description": "Average psilocybin and psilocin concentrations for popular Psilocybe cubensis strains, in mg/g dry weight (converted from % dry weight). Values represent averages excluding outliers. Where psilocin is not specified but total is available, it is inferred as total - psilocybin. If only total or one compound is given, the other is set to 0.0.",
+  "source": "Compiled from peer-reviewed studies, Psilocybin Cup data, and Miraculix QTest reports, prioritized as: studies > Psilocybin Cup > other lab reports (2024–2025)",
+  "description": "Average psilocybin and psilocin concentrations for popular Psilocybe cubensis strains, in mg/g dry weight (converted from % dry weight where needed). Values represent averages excluding outliers. Where psilocin is not specified but total is available, it is inferred as total - psilocybin. If only total or one compound is given, the other is set to 0.0.",
   "profiles": [
     {
       "label": "Albino A+",
@@ -54,8 +54,8 @@
     {
       "label": "Amazon (Amazonian)",
       "compounds": [
-        { "name": "Psilocybin", "mg_per_g": 5.1 },
-        { "name": "Psilocin", "mg_per_g": 0.1 }
+        { "name": "Psilocybin", "mg_per_g": 11.2 },
+        { "name": "Psilocin", "mg_per_g": 2.0 }
       ]
     },
     {
@@ -68,15 +68,15 @@
     {
       "label": "B+",
       "compounds": [
-        { "name": "Psilocybin", "mg_per_g": 11.1 },
-        { "name": "Psilocin", "mg_per_g": 0.2 }
+        { "name": "Psilocybin", "mg_per_g": 5.9 },
+        { "name": "Psilocin", "mg_per_g": 1.1 }
       ]
     },
     {
       "label": "Blue Meanie",
       "compounds": [
-        { "name": "Psilocybin", "mg_per_g": 11.8 },
-        { "name": "Psilocin", "mg_per_g": 0.4 }
+        { "name": "Psilocybin", "mg_per_g": 6.7 },
+        { "name": "Psilocin", "mg_per_g": 0.5 }
       ]
     },
     {
@@ -262,6 +262,13 @@
       ]
     },
     {
+      "label": "PESA",
+      "compounds": [
+        { "name": "Psilocybin", "mg_per_g": 3.0 },
+        { "name": "Psilocin", "mg_per_g": 1.1 }
+      ]
+    },
+    {
       "label": "South African Transkei",
       "compounds": [
         { "name": "Psilocybin", "mg_per_g": 9.2 },
@@ -279,7 +286,7 @@
       "label": "Texas Yellow",
       "compounds": [
         { "name": "Psilocybin", "mg_per_g": 10.8 },
-        { "name": "Psilocin", "mg_per_g": 0.2 }
+        { "name": "Psilocin", "mg_per_g": 0.24 }
       ]
     },
     {
@@ -328,7 +335,7 @@
       "label": "Yeti",
       "compounds": [
         { "name": "Psilocybin", "mg_per_g": 8.8 },
-        { "name": "Psilocin", "mg_per_g": 2.6 }
+        { "name": "Psilocin", "mg_per_g": 1.3 }
       ]
     },
     {
