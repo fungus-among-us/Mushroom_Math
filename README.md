@@ -2,7 +2,7 @@
 
 *The world’s most unnecessarily precise collection of “totally hypothetical” fungal alkaloid averages.*
 
-The 100% academic, definitely-not-for-dosing JSON database used by the world’s most responsible bio-enthusiasts, harm-reduction nerds, and people who just really like bar charts.
+The 100% academic JSON database used by the world’s most responsible bio-enthusiasts, harm-reduction nerds, and people who just really like bar charts.
 
 ### What’s inside?
 - 50+ lovingly averaged alkaloid profiles
