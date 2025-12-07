@@ -6,11 +6,11 @@ A JSON database for use by the world’s most responsible bio-enthusiasts, harm-
 
 ### What’s inside?
 - 50+ lovingly averaged alkaloid profiles
-- Sourced from peer-reviewed papers, lab reports, and that one guy who definitely has a GC-MS in his basement (we checked the certificates)
-- Compatible with the [Multi-Compound Content Estimator](https://github.com/username/pc-calculator) app
+- Sourced from peer-reviewed papers, lab reports, and people who might have a GC-MS in their basement
+- Compatible with the [Multi-Compound Content Estimator](https://github.com/fungus-among-us/Multi-Compound_Content-Estimator) app
 - Easy to update yourself whenever someone publishes something new or wins a cup
 
-##### Legal & Ethical Fine Print
+##### Really Fine Print
 - This repository contains **scientifish data only**
 - No instructions for cultivation, extraction, or consumption are provided (because that would be *rude*)
 - All values are averages. Nature is chaotic, and so are you
